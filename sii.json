@@ -1,10 +1,24 @@
-{"message":{
-    "attachment":{
-      "type":"image", 
-      "payload":{
-        "url":"http://www.messenger-rocks.com/image.jpg", 
-        "is_reusable":true
+{
+  "messages": [
+    {
+      "attachment": {
+        "type": "template",
+        "payload": {
+          "template_type": "generic",
+          "image_aspect_ratio": "square",
+          "elements": [
+            {
+              "title": "I can't believe it, GOD!! 😱",
+              "image_url": "https://i.imgur.com/LmunFq9.png",
+              "subtitle": "2,211 views",
+              "default_action": {
+                "type": "web_url",
+                "url": "http://qwa.la/m7x3q5"
+              }
+            }
+          ]
+        }
       }
     }
-  }
+  ]
 }
