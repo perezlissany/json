@@ -4,7 +4,7 @@
       "attachment": {
         "type": "template",
         "payload": {
-          "template_type": "image",
+          "template_type": "media",
           "image_aspect_ratio": "square",
           "is_reusable":true,
           "elements": [
