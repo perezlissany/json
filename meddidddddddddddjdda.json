@@ -1,0 +1,20 @@
+{
+  "messages": [
+  
+    {
+  "attachment": {
+    "type": "template",
+    "payload": {
+      "template_type": "generic",
+      "elements": [
+        {
+          "image_url": "http://scd.rfi.fr/sites/filesrfi/imagecache/rfi_43_medium/sites/images.rfi.fr/files/aef_image/2019-01-11t145823z_1912744290_rc1428cade00_rtrmadp_3_sudan-protests_0.jpg",
+          "title": "Soudan: les manifestations se poursuivent, la répression aussi",
+          "subtitle": "www.rfi.fr, 2019-01-12 04:03"
+        }
+          ]
+        }
+      }
+    }
+  ]
+}
