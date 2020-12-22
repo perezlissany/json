@@ -1,5 +1,5 @@
 {
-    "type": "element_share",
+ 
     "share_contents": {
         "attachment": {
             "type": "template",
@@ -12,12 +12,7 @@
                     "default_action": {
                         "type": "web_url",
                         "url": "https://i.imgur.com/LmunFq9.png"
-                    },
-                    "buttons": [{
-                        "type": "web_url",
-                        "url": "https://i.imgur.com/LmunFq9.png",
-                        "title": "dame clcik"
-                    }]
+                    }
                 }]
             }
         }
