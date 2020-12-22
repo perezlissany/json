@@ -1,4 +1,4 @@
- "message":{
+{"message":{
     "attachment":{
       "type":"image", 
       "payload":{
@@ -7,3 +7,4 @@
       }
     }
   }
+}
