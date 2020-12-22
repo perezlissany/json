@@ -2,7 +2,7 @@
   "messages": [
     {
       "attachment": {
-        "type": "element_share",
+        "type": "image",
         "payload": {
           "template_type": "image",
           "image_aspect_ratio": "square",
