@@ -6,6 +6,7 @@
         "payload": {
           "template_type": "generic",
           "image_aspect_ratio": "square",
+          "is_reusable":true,
           "elements": [
             {
               "title": "I can't believe it, GOD!! 😱",
