@@ -1,0 +1,41 @@
+{
+  "messages": [
+    {
+      "text": "Hi Fety! There are the latest news"
+    },
+    {
+  "attachment": {
+    "type": "template",
+    "payload": {
+      "template_type": "generic",
+      "elements": [
+        {
+          "image_url": "http://scd.rfi.fr/sites/filesrfi/imagecache/rfi_43_medium/sites/images.rfi.fr/files/aef_image/2019-01-11t145823z_1912744290_rc1428cade00_rtrmadp_3_sudan-protests_0.jpg",
+          "title": "Soudan: les manifestations se poursuivent, la répression aussi",
+          "subtitle": "www.rfi.fr, 2019-01-12 04:03",
+          "buttons": [
+            {
+              "type": "web_url",
+              "url": "http://www.rfi.fr/afrique/20190112-soudan-manifestations-poursuivent-repression",
+              "title": "VOIR L'ARTICLE"
+            }
+          ]
+        },
+        {
+          "image_url": "http://scd.rfi.fr/sites/filesrfi/imagecache/rfi_43_medium/sites/images.rfi.fr/files/aef_image/2019-01-11t182406z_855534608_rc1a370ea010_rtrmadp_3_usa-shutdown-lawsuit_0.jpg",
+          "title": "[Reportage] «Shutdown»: un quotidien compliqué pour des milliers d'employés",
+          "subtitle": "www.rfi.fr, 2019-01-12 04:01",
+          "buttons": [
+                {
+                  "type": "web_url",
+                  "url": "http://www.rfi.fr/ameriques/20190112-reportage-shutdown-quotidien-complique-800000-employes",
+                  "title": "VOIR L'ARTICLE"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
