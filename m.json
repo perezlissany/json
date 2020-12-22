@@ -4,7 +4,7 @@
         "attachment": {
             "type": "template",
             "payload": {
-                "template_type": "generic",
+                "template_type": "element_share",
                 "elements": [{
                     "title": "Pagina de prueba",
                     "subtitle": "paginad2",
