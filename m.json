@@ -1,5 +1,5 @@
 {
- 
+ "messages": [{
     "share_contents": {
         "attachment": {
             "type": "template",
@@ -18,3 +18,4 @@
         }
     }
 }
+]}
