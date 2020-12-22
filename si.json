@@ -1,24 +1,9 @@
-{
-  "messages": [
-    {
-      "attachment": {
-        "type": "image",
-        "payload": {
-          "template_type": "image",
-          "image_aspect_ratio": "square",
-          "elements": [
-            {
-              "title": "LOL, this world is so crazy! 😱",
-              "image_url": "https://i.imgur.com/LmunFq9.png",
-              "subtitle": "4,983 views j",
-              "default_action": {
-                "type": "web_url",
-                "url": "http://qwa.la/a8t4d2"
-              }
-            }
-          ]
-        }
+ "message":{
+    "attachment":{
+      "type":"image", 
+      "payload":{
+        "url":"http://www.messenger-rocks.com/image.jpg", 
+        "is_reusable":true
       }
     }
-  ]
-}
+  }
