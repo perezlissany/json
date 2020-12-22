@@ -4,7 +4,7 @@
       "attachment": {
         "type": "element_share",
         "payload": {
-          "template_type": "button",
+          "template_type": "image",
           "image_aspect_ratio": "square",
           "elements": [
             {
